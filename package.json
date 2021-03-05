@@ -1,6 +1,6 @@
 {
   "name": "kickstart",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Boilerplate generator for different kinds of web apps.",
   "main": "src/index.js",
   "scripts": {
